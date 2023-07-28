@@ -79,8 +79,11 @@ nav:
     - FAQ: faq.md
     - Changelog: changelog.md
     - Report Issues: https://github.com/bojichen/geohydrodemo/issues
-    - Examples:
+    - Notebooks:
         - examples/intro.ipynb
+        - examples/ipyleaflet_intro.ipynb
+        - examples/geohydrodemo.ipynb
+        - examples/folium_intro.ipynb
     - API Reference:
           - geohydrodemo module: geohydrodemo.md
           - common module: common.md
