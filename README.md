@@ -11,8 +11,10 @@
 -   Free software: MIT license
 -   Documentation: https://bojichen.github.io/geohydrodemo
 -   This is just a practice 
+-   PyPI: <https://pypi.org/project/geohydrodemo/>
     
 
 ## Features
 
 -   TODO
+-   TODO 2
