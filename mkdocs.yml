@@ -85,6 +85,7 @@ nav:
         - examples/geohydrodemo.ipynb
         - examples/folium_intro.ipynb
         - examples/add_shapefile.ipynb
+        - examples/earthengine_intro.ipynb
     - API Reference:
           - geohydrodemo module: geohydrodemo.md
           - utils module: utils.md
