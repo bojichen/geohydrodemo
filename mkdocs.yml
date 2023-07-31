@@ -87,4 +87,5 @@ nav:
         - examples/add_shapefile.ipynb
     - API Reference:
           - geohydrodemo module: geohydrodemo.md
+          - utils module: utils.md
           - common module: common.md

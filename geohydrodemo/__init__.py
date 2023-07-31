@@ -5,3 +5,4 @@ __email__ = 'bojichen@connect.hku.hk'
 __version__ = '0.0.4'
 
 from .geohydrodemo import *
+from .utils import *
