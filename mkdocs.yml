@@ -84,6 +84,7 @@ nav:
         - examples/ipyleaflet_intro.ipynb
         - examples/geohydrodemo.ipynb
         - examples/folium_intro.ipynb
+        - examples/add_shapefile.ipynb
     - API Reference:
           - geohydrodemo module: geohydrodemo.md
           - common module: common.md
